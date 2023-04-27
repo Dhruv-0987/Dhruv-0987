@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhruv-0987
-- 👀 I’m interested in full stack web development in React.js , angular.js and Node.js
+- 👀 I’m interested in full stack web development with React.js, Angular, .NET Core, EF Core.  
 - 🌱 I’m currently working as a Software Developer at SSW Enterprise Software.
 - 📫 How to reach me: dhruvmat1998@gmail.com
 
