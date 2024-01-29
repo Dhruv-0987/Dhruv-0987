@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dhruv Mathur
 
-- Ask me about ReactJS, TailwindCSS.
+- Ask me about ReactJS, NextJS, Angular, ASP NET Identity and ASP NET Core.
 
-- 👀 I’m interested in full stack web development with React.js, Angular, .NET Core, EF Core.  
+- 👀 I’m interested in full stack web development with React.js, NextJS, Angular, .NET Core, EF Core.  
 
 - 🌱 I’m currently working as a Software Developer at SSW Enterprise Software.
 
