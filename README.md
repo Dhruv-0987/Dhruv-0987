@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv Mathur
 
-- Ask me about ReactJS, NextJS, Angular, ASP NET Identity and ASP NET Core.
+- Ask me about ReactJS, NextJS, Angular, Blazor ASP NET Identity and ASP NET Core.
 
 - 👀 I’m interested in full stack web development with React.js, NextJS, Angular, Blazor, .NET Core, EF Core.  
 
