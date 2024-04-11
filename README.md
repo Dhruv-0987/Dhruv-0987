@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+![Dhruv Mathur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-0987&theme=dracula_icons=true&hide_border=false&layout=compact)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-0987&theme=dracula" alt="mystreak"/>
 
 
