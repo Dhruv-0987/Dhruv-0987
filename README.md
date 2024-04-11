@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently working as a Software Developer at SSW Enterprise Software.
 
+- 🔒 I'm currently obsessed with application securtiy and Modern Stateless Authentication. IdentityServer is the way to go.
+
 - 📫 How to reach me: dhruvmat1998@gmail.com
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
