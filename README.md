@@ -25,8 +25,10 @@ Dhruv-0987/Dhruv-0987 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/dhruv-0987/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-0987&layout=compact&theme=dracula&hide_border=true" /></a>
-
 <img src="https://myreadme.vercel.app/api/embed/dhruv-0987?panels=userstatistics,toprepositories,toplanguages,commitgraph?theme=dracula" alt="reimaginedreadme" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-0987&theme=dracula" alt="mystreak"/>
+
+
+[![Dhruv Mathur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruv-0987&custom_title=Dhruv's%20GitHub%20Activity%20Graph&bg_color=282a36&color=f8f8f2&line=44475a&point=ff79c6&area_color=44475a&title_color=f8f8f2&area=true
+)
