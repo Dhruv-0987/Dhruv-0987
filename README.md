@@ -4,8 +4,6 @@
 
 - 👀 I’m interested in full stack web development with React.js, NextJS, Angular, Blazor, .NET Core, EF Core.  
 
-- 🌱 I’m currently working as a Software Developer at SSW Enterprise Software.
-
 - 🔒 I'm currently obsessed with application securtiy and Modern Stateless Authentication. IdentityServer is the way to go.
 
 - 📫 How to reach me: dhruvmat1998@gmail.com
